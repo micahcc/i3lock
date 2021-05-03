@@ -43,6 +43,8 @@ i3lock_SOURCES = \
 	dpi.h \
 	i3lock.c \
 	i3lock.h \
+	blur.c \
+	blur.h \
 	randr.c \
 	randr.h \
 	unlock_indicator.c \
