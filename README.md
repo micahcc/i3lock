@@ -1,5 +1,5 @@
-i3lock - improved screen locker
-===============================
+i3lock - improved screen locker (Micah's Fork)
+==============================================
 [i3lock](https://i3wm.org/i3lock/)> is a simple screen locker like slock.
 After starting it, you will see a white screen (you can configure the
 color/an image). You can return to your screen by entering your password.
@@ -19,6 +19,8 @@ or similar, use existing tooling to do this before passing it to i3lock.
 
 - i3lock uses PAM and therefore is compatible with LDAP etc.
   On OpenBSD i3lock uses the bsd_auth(3) framework.
+
+- This variant also include a blurred background feature
 
 Install
 -------
